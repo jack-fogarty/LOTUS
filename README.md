@@ -26,9 +26,9 @@ It is possible to use LOTUS without Matlab but running a compiled version of the
  
 
  
-# Example of the LOTUS Reader Interface
+# Example of the LOTUS Reader - interface for compiling raw data
 <img src="https://github.com/jack-fogarty/LOTUS-reader/assets/92418738/d9297814-1a32-4e99-b842-82dfabd28a0c" width="600" />
 
 
-# Example of the LOTUS Reader Interface
+# Example of the LOTUS Analyser - interface for editing tags
 ![LOTUS_analyser](https://github.com/user-attachments/assets/387b223c-6e6d-4e79-bd2f-704de76c86da)
