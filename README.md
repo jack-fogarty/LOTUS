@@ -1,6 +1,6 @@
 # The LOTUS Toolkit
 The LOTUS toolkit features two GUIs built to read, compile, and analyse raw Empatica EmbracePlus data over user-defined periods of time (i.e., EDA, BVP, systolic peaks, temperature, accelerometer, and event tags). 
-1. **LOTUS Reader** can selectively reconstitute the fragmented 'chunks' of raw signal data output by the EmbracePlus as a continuous timeseries.
+1. **LOTUS Reader** can selectively reconstitute fragmented 'chunks' of raw signal data output by the EmbracePlus as a continuous timeseries.
 2. **LOTUS analyser** allows users to visualise and navigate the raw signal data, edit event tags, and complete basic preprocessing.
 
 # Installation
