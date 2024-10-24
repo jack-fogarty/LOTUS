@@ -24,10 +24,11 @@ The LOTUS Reader is a GUI primarily built to read and compile raw Empatica Embra
 # Compiled version of LOTUS
 It is possible to use LOTUS without Matlab but running a compiled version of the app. A compiled version of LOTUS can be made available to users upon request to: jack.fogarty@nie.edu.sg
  
-
+ 
  
 # Example of the LOTUS Reader - interface for compiling raw data
 <img src="https://github.com/jack-fogarty/LOTUS-reader/assets/92418738/d9297814-1a32-4e99-b842-82dfabd28a0c" width="600" />
+ 
 
 
 # Example of the LOTUS Analyser - interface for editing tags
