@@ -12,9 +12,10 @@ Feedback and suggestions may be sent to: jack.fogarty@nie.edu.sg
 2. Download and install python version 3.11.x prior to using LOTUS (https://www.python.org/downloads/)
 3. Install the avro python library as recommended by Empatica using 'pip install avro'
 4. Other python libraries (i.e., json, csv, and os) are also required but should be installed with python by default
-#
-#
-#
+
+
+
+ 
 # To use LOTUS
 1. Start Matlab
 2. Add the folder containing LOTUS_reader to the Matlab including subfolders
