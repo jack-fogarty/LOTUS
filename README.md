@@ -4,23 +4,19 @@ The two GUI components include the LOTUS reader and analyser, which may be downl
 1. **LOTUS Reader** can selectively reconstitute fragmented 'chunks' of raw  EmbracePlus data (i.e., avro files) as a continuous timeseries. Batch processing is enabled to allow users to reconstitute data across multiple subjects and multiple days.
 2. **LOTUS analyser** allows users to visualise and navigate the raw signal data, edit event tags, and complete basic preprocessing.
 
+Feedback and suggestions may be sent to: jack.fogarty@nie.edu.sg
+
 # Installation
 1. Install Matlab 2023b or later (a compiled version is available for users without Matlab)
 2. Download and install python version 3.11.x prior to using LOTUS (https://www.python.org/downloads/)
 3. Install the avro python library as recommended by Empatica using 'pip install avro'
 4. Other python libraries (i.e., json, csv, and os) are also required but should be installed with python by default
 
-# To use LOTUS Reader
+# To use LOTUS
 1. Start Matlab
 2. Add the folder containing LOTUS_reader to the Matlab including subfolders
-3. Type "LOTUS_reader" in the Matlab command window and press enter
+3. Type "LOTUS_reader" or "LOTUS_analyser" in the Matlab command window and press enter
 4. Check the instructions PDF for GUI workflow
-
-# To use LOTUS Analyser
-1. Start Matlab
-2. Add the folder containing LOTUS_analyser to the Matlab including subfolders
-3. Type "LOTUS_analyser" in the Matlab command window and press enter
-4. 5. Please send feedback and suggestions to: jack.fogarty@nie.edu.sg
 
 # Compiled version of LOTUS
 It is possible to use LOTUS without Matlab but running a compiled version of the app. A compiled version of LOTUS can be made available to users upon request to: jack.fogarty@nie.edu.sg
