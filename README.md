@@ -3,8 +3,8 @@ The LOTUS toolkit features two GUIs built to read, compile, and analyse raw Empa
 The two GUI components include the LOTUS reader and analyser, which may be downloaded and used independently of one another.
 1. **LOTUS Reader** can selectively reconstitute fragmented 'chunks' of raw  EmbracePlus data (i.e., avro files) as a continuous timeseries. Batch processing is enabled to allow users to reconstitute data across multiple subjects and multiple days.
 2. **LOTUS analyser** allows users to visualise and navigate the raw signal data, edit event tags, and complete basic preprocessing.
-#
-#
+  
+  
 Feedback and suggestions may be sent to: jack.fogarty@nie.edu.sg
 
 # Installation
