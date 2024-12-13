@@ -7,6 +7,11 @@ The two GUI components include the LOTUS reader and analyser, which may be downl
 Feedback and suggestions may be sent to: <a href="mailto:jack.fogarty@nie.edu.sg">jack.fogarty@nie.edu.sg</a>
 <br>
 
+# Citation
+If using LOTUS reader or anlyser please cite:
+Fogarty, J. S. (2024). LOTUS Software to Process Wearable EmbracePlus Data. Sensors, 24(23), 7462. https://doi.org/10.3390/s24237462
+<br>
+
 # Installation
 1. Install Matlab 2023b or later (a compiled version is available for users without Matlab)
 2. Download and install python version 3.11.x prior to using LOTUS (https://www.python.org/downloads/)
