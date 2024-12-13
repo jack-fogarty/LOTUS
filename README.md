@@ -9,6 +9,7 @@ Feedback and suggestions may be sent to: <a href="mailto:jack.fogarty@nie.edu.sg
 
 # Citation
 If using LOTUS reader or anlyser please cite:
+<br>
 Fogarty, J. S. (2024). LOTUS Software to Process Wearable EmbracePlus Data. Sensors, 24(23), 7462. https://doi.org/10.3390/s24237462
 <br>
 
