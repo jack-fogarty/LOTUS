@@ -423,12 +423,14 @@ classdef LOTUS_reader < matlab.apps.AppBase
 
             % Create StepsCheck
             app.StepsCheck = uicheckbox(app.GridLayout);
+            app.StepsCheck.Enable = 'off';
             app.StepsCheck.Text = 'Steps';
             app.StepsCheck.Layout.Row = 1;
             app.StepsCheck.Layout.Column = 7;
 
             % Create GYRCheck
             app.GYRCheck = uicheckbox(app.GridLayout);
+            app.GYRCheck.Enable = 'off';
             app.GYRCheck.Text = 'GYR';
             app.GYRCheck.Layout.Row = 1;
             app.GYRCheck.Layout.Column = 6;
@@ -465,12 +467,14 @@ classdef LOTUS_reader < matlab.apps.AppBase
 
             % Create OtherCheck
             app.OtherCheck = uicheckbox(app.GridLayout);
+            app.OtherCheck.Enable = 'off';
             app.OtherCheck.Text = 'Other';
             app.OtherCheck.Layout.Row = 1;
             app.OtherCheck.Layout.Column = 8;
 
             % Create SummaryCheck
             app.SummaryCheck = uicheckbox(app.GridLayout);
+            app.SummaryCheck.Enable = 'off';
             app.SummaryCheck.Text = 'Summary';
             app.SummaryCheck.Layout.Row = 1;
             app.SummaryCheck.Layout.Column = 9;
@@ -512,7 +516,7 @@ classdef LOTUS_reader < matlab.apps.AppBase
 
             % Create ReadMethodDropDown
             app.ReadMethodDropDown = uidropdown(app.LOTUS_readerUIFigure);
-            app.ReadMethodDropDown.Items = {'Default', 'Custom', 'Event-based'};
+            app.ReadMethodDropDown.Items = {'Default', 'Custom'};
             app.ReadMethodDropDown.Position = [107 307 103 22];
             app.ReadMethodDropDown.Value = 'Default';
 
