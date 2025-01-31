@@ -9,7 +9,7 @@ Feedback and suggestions may be sent to: <a href="mailto:jack.fogarty@nie.edu.sg
 <br>
 🍻 Support this thirsty work <a href="https://ko-fi.com/jackfogarty">here</a>
 <br>
-
+<br>
 
 # Citation
 If using LOTUS reader or anlyser please reference:
