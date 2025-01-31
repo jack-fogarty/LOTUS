@@ -7,7 +7,7 @@ The two GUI components include the LOTUS reader and analyser, which may be downl
 Feedback and suggestions may be sent to: <a href="mailto:jack.fogarty@nie.edu.sg">jack.fogarty@nie.edu.sg</a>
 <br>
 <br>
-🍻 Support this thirsty work [here](https://ko-fi.com/jackfogarty)
+🍻 Support this thirsty work [here](https://ko-fi.com/jackfogarty)   <a href="https://ko-fi.com/jackfogarty">here</a>
 <br>
 
 # Citation
