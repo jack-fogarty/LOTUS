@@ -6,6 +6,7 @@ The two GUI components include the LOTUS reader and analyser, which may be downl
 <br>
 Feedback and suggestions may be sent to: <a href="mailto:jack.fogarty@nie.edu.sg">jack.fogarty@nie.edu.sg</a>
 <br>
+🍻 Support this thirsty work [here](https://ko-fi.com/jackfogarty)
 
 # Citation
 If using LOTUS reader or anlyser please reference:
