@@ -7,7 +7,7 @@ The two GUI components include the LOTUS reader and analyser, which may be downl
 Feedback and suggestions may be sent to: <a href="mailto:jack.fogarty@nie.edu.sg">jack.fogarty@nie.edu.sg</a>
 <br>
 <br>
-🍻 Support this thirsty work [here](https://ko-fi.com/jackfogarty)   <a href="https://ko-fi.com/jackfogarty">here</a>
+🍻 Support this thirsty work <a href="https://ko-fi.com/jackfogarty">here</a>
 <br>
 
 # Citation
@@ -24,7 +24,7 @@ If using LOTUS reader or anlyser please reference:
 4. Other python libraries (i.e., json, csv, and os) are also required but should be installed with python by default
 <br>
 <br>
-**TIP:** Type [pyenv](https://www.mathworks.com/help/matlab/ref/pyenv.html) into your Matlab command window to check the python version that your Matlab has access to.
+**TIP:** Type <a href="https://www.mathworks.com/help/matlab/ref/pyenv.html">pyenv</a> into your Matlab command window to check the python version that your Matlab has access to.
 <br>
 
  
