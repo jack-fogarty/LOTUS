@@ -44,7 +44,7 @@ It is possible to use LOTUS without Matlab but running a compiled version of the
 <br> 
  
 # Example of the LOTUS Reader - interface for compiling raw data
-<img src="https://github.com/jack-fogarty/LOTUS-reader/assets/92418738/d9297814-1a32-4e99-b842-82dfabd28a0c" width="600" />
+![Image](https://github.com/user-attachments/assets/7ea8cbb6-e104-417b-ba0e-d297941e6e8a)
 <br>
 <br>
 
