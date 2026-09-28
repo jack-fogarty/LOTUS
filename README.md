@@ -38,7 +38,7 @@ If using LOTUS reader or anlyser please reference:
 <br>
 
 # Compiled version of LOTUS
-It is possible to use LOTUS without Matlab but running a compiled version of the app. A compiled version of LOTUS can be made available to users upon request to: jack.fogarty@nie.edu.sg
+It is possible to use the LOTUS reader without Matlab by running a compiled version of the app. A compiled version of LOTUS reader is available [here](https://github.com/jack-fogarty/LOTUS-compiled). For other queries or requests, please email jack.fogarty@nie.edu.sg
 <br>
 <br>
 <br> 
